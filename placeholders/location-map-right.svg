@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="551" viewBox="0 0 480 551">
+  <rect width="480" height="551" fill="#E8E8E8" stroke="#2D5016" stroke-width="3" stroke-dasharray="12,6"/>
+  <text x="240" y="260" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2D5016" text-anchor="middle">SATELLITE VIEW</text>
+  <text x="240" y="295" font-family="Arial, sans-serif" font-size="16" fill="#666666" text-anchor="middle">{{LOCATION_MAP_SATELLITE}}</text>
+  <text x="240" y="325" font-family="Arial, sans-serif" font-size="14" fill="#999999" text-anchor="middle">480 x 551 px</text>
+</svg>

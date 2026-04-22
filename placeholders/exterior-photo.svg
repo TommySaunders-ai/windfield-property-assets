@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="976" height="268" viewBox="0 0 976 268">
+  <rect width="976" height="268" fill="#E8E8E8" stroke="#2D5016" stroke-width="3" stroke-dasharray="12,6"/>
+  <text x="488" y="120" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2D5016" text-anchor="middle">EXTERIOR BUILDING PHOTO</text>
+  <text x="488" y="160" font-family="Arial, sans-serif" font-size="16" fill="#666666" text-anchor="middle">{{EXTERIOR_PHOTO}}</text>
+  <text x="488" y="190" font-family="Arial, sans-serif" font-size="14" fill="#999999" text-anchor="middle">976 x 268 px</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="315" height="551" viewBox="0 0 315 551">
+  <rect width="315" height="551" fill="#E8E8E8" stroke="#2D5016" stroke-width="3" stroke-dasharray="12,6"/>
+  <text x="157" y="260" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2D5016" text-anchor="middle">INTERIOR</text>
+  <text x="157" y="290" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2D5016" text-anchor="middle">PHOTO 1</text>
+  <text x="157" y="320" font-family="Arial, sans-serif" font-size="14" fill="#666666" text-anchor="middle">{{INTERIOR_1}}</text>
+  <text x="157" y="345" font-family="Arial, sans-serif" font-size="12" fill="#999999" text-anchor="middle">315 x 551 px</text>
+</svg>
